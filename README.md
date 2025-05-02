@@ -8,6 +8,8 @@ Instructor - Dr. Anil Kumar Dasanna
 
 ## Term Paper
 
+<p align="center"> <img src="Term Paper/Animations/moth.gif"/> </p>
+
 This repository serves as the submission for the term paper component of the course. The code and source files are presented alongside the plots and animations. 
 
 
