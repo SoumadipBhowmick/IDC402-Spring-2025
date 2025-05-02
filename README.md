@@ -10,4 +10,5 @@ Instructor - Dr. Anil Kumar Dasanna
 
 This repository serves as the submission for the term paper component of the course. The code and source files are presented alongside the plots and animations. 
 
-Note: The main `Jupyter` notebook might be too large to open in the browser. Kindly download and open it using `Jupyter-lab` or Google Colaboratory
+
+
